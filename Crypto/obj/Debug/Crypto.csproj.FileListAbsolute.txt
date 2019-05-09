@@ -1,0 +1,7 @@
+C:\Users\Andrey\Desktop\Crypto\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\Andrey\Desktop\Crypto\Crypto\bin\Debug\Crypto.exe
+C:\Users\Andrey\Desktop\Crypto\Crypto\bin\Debug\Crypto.pdb
+C:\Users\Andrey\Desktop\Crypto\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\Crypto\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Crypto\Crypto\obj\Debug\Crypto.exe
+C:\Users\Andrey\Desktop\Crypto\Crypto\obj\Debug\Crypto.pdb
